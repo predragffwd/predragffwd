@@ -2,7 +2,7 @@
 
 ### Web developer at 
 - [Future Forward](https://futureforward.nl)
-- [GuideLites.](https://guidelites.com)
+- [GuideLites](https://guidelites.com)
 
 ### Our products
 - [Castit](https://castitsignage.com)
